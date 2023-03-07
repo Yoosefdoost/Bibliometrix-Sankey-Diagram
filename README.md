@@ -2,7 +2,7 @@
 </br><b> Name</b>:         Bibliometrix Sankey Diagram
 </br><b> Version</b>:      1.3.0
 </br><b> Author</b>:       Arash Yoosefdoost
-</br><b> Description</b>:  A Bibliometric analysis tool to enerate Sankey Diagrams using Bibliometrix library to visualize how the main items of a bibliometry file (e.g., BibTex) (authors, keywords, journals, etc.) are related
+</br><b> Description</b>:  A Bibliometric analysis tool to enerate Sankey Diagrams using Bibliometrix library (e.g., BibTex) to visualize how the main items of a bibliometry file (authors, keywords, journals, etc.) are related.
 </br><b> Requirements</b>: R, R Studio (Optional), Libraries: bibliometrix, rstudioapi
 
 </br><b>Supported Sources</b>:
